@@ -1,0 +1,5 @@
+outs:
+- md5: d0659128b0cea13ef532869fcb042791.dir
+  size: 7116686564
+  nfiles: 37
+  path: tfr_layers12_vocab10000_embd768_heads12_tenpercent

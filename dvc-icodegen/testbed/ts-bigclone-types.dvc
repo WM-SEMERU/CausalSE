@@ -1,0 +1,5 @@
+outs:
+- md5: 70d671a16a43c5477730b75c7f1c9c1b.dir
+  size: 35212104
+  nfiles: 3
+  path: ts-bigclone-types

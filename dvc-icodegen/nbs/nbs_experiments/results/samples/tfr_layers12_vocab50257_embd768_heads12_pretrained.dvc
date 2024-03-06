@@ -1,0 +1,5 @@
+outs:
+- md5: 3c51847ca331aaa54fcce3bdaff18cdc.dir
+  size: 48224044
+  nfiles: 30
+  path: tfr_layers12_vocab50257_embd768_heads12_pretrained

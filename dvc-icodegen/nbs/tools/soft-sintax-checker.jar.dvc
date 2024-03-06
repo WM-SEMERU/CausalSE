@@ -1,0 +1,4 @@
+outs:
+- md5: dbbdf0602bbacd0b80d32339cbf0fee1
+  size: 404124
+  path: soft-sintax-checker.jar

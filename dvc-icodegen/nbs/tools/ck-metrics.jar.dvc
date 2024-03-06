@@ -1,0 +1,4 @@
+outs:
+- md5: d267b339011030da3d084fa84c2f96cf
+  size: 29378202
+  path: ck-metrics.jar

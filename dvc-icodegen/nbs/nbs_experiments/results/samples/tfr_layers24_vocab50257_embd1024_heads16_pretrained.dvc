@@ -1,0 +1,5 @@
+outs:
+- md5: 84b5f77e75b492f379b7dfc5501d5b51.dir
+  size: 49872647
+  nfiles: 31
+  path: tfr_layers24_vocab50257_embd1024_heads16_pretrained

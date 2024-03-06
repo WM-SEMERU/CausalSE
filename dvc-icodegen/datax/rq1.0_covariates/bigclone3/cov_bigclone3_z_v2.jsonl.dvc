@@ -1,0 +1,4 @@
+outs:
+- md5: f3da3b5b40cca41c3797990362696333
+  size: 84049665
+  path: cov_bigclone3_z_v2.jsonl

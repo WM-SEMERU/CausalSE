@@ -1,0 +1,5 @@
+outs:
+- md5: 5d229ea207c8cd6c15286a324c8fbd62.dir
+  size: 2868881413
+  nfiles: 38
+  path: min_tfr_layers2_vocab10000_embd512_heads4

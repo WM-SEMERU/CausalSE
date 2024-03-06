@@ -1,0 +1,5 @@
+outs:
+- md5: 23b963877ee7965cc44e5549780fb64a.dir
+  size: 14464955313
+  nfiles: 33
+  path: searchnet

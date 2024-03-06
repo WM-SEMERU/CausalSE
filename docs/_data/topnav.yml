@@ -1,0 +1,14 @@
+topnav:
+- title: Topnav
+  items:
+    - title: github
+<<<<<<< HEAD
+      external_url: https://github.com/danaderp/InterpretingCodeGeneration/tree/master/
+=======
+      external_url: https://github.com/wm-semeru/mlproj_template/tree/main/
+>>>>>>> 4140f24734dc43a0cec843110b40849f867f6944
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:

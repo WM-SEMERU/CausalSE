@@ -1,0 +1,5 @@
+outs:
+- md5: 5264230868e6aa335fe42ccb8056741a.dir
+  size: 55376873
+  nfiles: 31
+  path: rnn_layers1_vocab10000_embed256_units1024

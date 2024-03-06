@@ -1,0 +1,5 @@
+outs:
+- md5: 21394493f90b9c73b8db237edd353e3c.dir
+  size: 39297637772
+  nfiles: 51
+  path: tfr_layers24_vocab10000_embd768_heads12

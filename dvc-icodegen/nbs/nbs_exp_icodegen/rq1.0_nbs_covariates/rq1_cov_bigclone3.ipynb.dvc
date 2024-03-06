@@ -1,0 +1,4 @@
+outs:
+- md5: 1a197b9d4e08422069e638ba5db90bca
+  size: 586384
+  path: rq1_cov_bigclone3.ipynb

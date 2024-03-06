@@ -1,0 +1,4 @@
+outs:
+- md5: 517e8c6f7f0e1a9f9ab9201b7e4aac5f
+  size: 414103
+  path: tokenizer-java-v1.json

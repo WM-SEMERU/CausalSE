@@ -1,0 +1,4 @@
+outs:
+- md5: 6df929cb2940addd7aab3bfb8b59eea9
+  size: 583319
+  path: rq1_cov_comments.ipynb

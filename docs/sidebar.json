@@ -1,0 +1,16 @@
+{
+  "icodegen": {
+    "Overview": "/",
+    "Data": "data.core.html",
+<<<<<<< HEAD
+    "Exploratory Data Analysis ": "data.eda.html",
+    "Data Transforms": "data.transforms.html",
+    "Model": "model.core.html",
+    "Deep Generative Coding with GRUs ": "model.gru.html"
+=======
+    "Data Transforms": "data.transforms.html",
+    "Model": "model.core.html",
+    "Evaluation": "evaluation.core.html"
+>>>>>>> 4140f24734dc43a0cec843110b40849f867f6944
+  }
+}

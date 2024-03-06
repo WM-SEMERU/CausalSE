@@ -1,0 +1,4 @@
+outs:
+- md5: 0b15425e060e9e7b24d66a5be7af21c1
+  size: 20421
+  path: gradient-accumulation-TFR-training-Model-G 0.0.0.ipynb

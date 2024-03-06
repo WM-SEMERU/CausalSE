@@ -1,0 +1,4 @@
+outs:
+- md5: cb35c2063328ba4466f41b9ad3a42f3d
+  size: 12060
+  path: TFR-sampling-Model-G 0.4.1.ipynb

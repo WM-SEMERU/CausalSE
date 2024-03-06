@@ -1,0 +1,5 @@
+outs:
+- md5: f7c3998afcb98c39381a49fd0bbeea21.dir
+  size: 747498975
+  nfiles: 16
+  path: pytorch_tfr_layers12_vocab10000_embd768_heads12

@@ -1,0 +1,5 @@
+outs:
+- md5: 372a7867fbe2724c0ef12d150acfadf1.dir
+  size: 23405162258
+  nfiles: 61
+  path: tfr_layers12_vocab10000_embd768_heads12_pretrained
